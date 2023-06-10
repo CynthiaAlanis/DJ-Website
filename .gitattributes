@@ -1,0 +1,14 @@
+“.mp4” filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+/package-lock.json filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/Ray.jpg filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/about.png filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/birthday.png filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/dj.png filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/dog.jpeg filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/halloween.jpeg filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/school.png filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/wedding.png filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/pictures/work.png filter=lfs diff=lfs merge=lfs -text
+/src/Assets/home-main.svg filter=lfs diff=lfs merge=lfs -text
+/src/Assets/logo.png filter=lfs diff=lfs merge=lfs -text
