@@ -12,7 +12,7 @@ import wedding1 from "../../Assets/Projects/videos/wedding.mp4";
 import fifteen from "../../Assets/Projects/videos/15th.mp4"
 function Videos() { 
 
-  return (
+  return(
     
     <Container fluid className="project-section">
       <Particle />
