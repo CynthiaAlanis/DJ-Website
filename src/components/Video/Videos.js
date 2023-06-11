@@ -9,7 +9,7 @@ import GradV from "../../Assets/Projects/videos/Grad.mp4";
 import GradV2 from "../../Assets/Projects/videos/grad2.mp4";
 import GradV3 from "../../Assets/Projects/videos/Grad3.mp4";
 import wedding1 from "../../Assets/Projects/videos/wedding.mp4";
-
+import fifteen from "../../Assets/Projects/videos/15th.mp4"
 function Videos() { 
 
   return (
@@ -99,6 +99,14 @@ function Videos() {
           <Col md={4} className="project-card">
           <ReactPlayer
             url={birthday}
+            width="100%"
+            height="100%"
+            controls
+        />
+          </Col>
+          <Col md={4} className="project-card">
+          <ReactPlayer
+            url={fifteen}
             width="100%"
             height="100%"
             controls
