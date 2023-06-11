@@ -14,3 +14,10 @@
 /src/Assets/logo.png filter=lfs diff=lfs merge=lfs -text
 /src/Assets/Projects/videos/15th.mp4 filter=lfs diff=lfs merge=lfs -text
 /src/Assets/Projects/videos/Birthday.mp4 filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/videos/Grad.mp4 filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/videos/Grad3.mp4 filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/videos/grad2.mp4 filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/videos/halloween.mp4 filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/videos/holloween.mp4 filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/videos/school.mp4 filter=lfs diff=lfs merge=lfs -text
+/src/Assets/Projects/videos/wedding.mp4 filter=lfs diff=lfs merge=lfs -text
