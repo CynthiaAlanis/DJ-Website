@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/Projects/pictures/Ray.jpg";
+import myImg from "../../Assets/Projects/pictures/RAY.png";
 import Tilt from "react-parallax-tilt";
 import { BsFacebook } from "react-icons/bs";
 import {AiOutlineTwitter} from "react-icons/ai";
