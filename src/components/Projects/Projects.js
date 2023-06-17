@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import Dog from "../../Assets/Projects/pictures/dog.jpeg";
-import halloween from "../../Assets/Projects/pictures/halloween.jpeg";
+import halloween from "../../Assets/Projects/pictures/halloween.png";
 import school from "../../Assets/Projects/pictures/school.png";
 import birthday from "../../Assets/Projects/pictures/birthday.png";
-import work from "../../Assets/Projects/pictures/work.png";
+import work from "../../Assets/Projects/pictures/birthday2.png";
 import wedding from "../../Assets/Projects/pictures/wedding.png";
 
 
@@ -65,7 +65,7 @@ function Projects() {
           
               imgPath={work}
               isBlog={false}
-              title="business events"
+              title="Birthday"
               description=""
               
               // demoLink="" <--------Please include a demo link here
