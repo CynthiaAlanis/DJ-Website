@@ -44,8 +44,8 @@ function Videos() {
 
           <Col md={4} className="project-card">
           <ReactPlayer
-            url="https://i.imgur.com/pLAA4By.mp4"
-            title="Wedding"
+            url="https://i.imgur.com/xoKuhDz.mp4"
+            title="Graduation"
             width="100%"
             height="100%"
             controls
@@ -94,7 +94,8 @@ function Videos() {
 
           <Col md={4} className="project-card">
           <ReactPlayer
-            url='https://youtu.be/i1hBlH6ai1w'
+            url='https://i.imgur.com/zHh9vvv.mp4'
+            title="Wedding"
             width="100%"
             height="100%"
             controls
