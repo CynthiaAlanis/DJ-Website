@@ -6,7 +6,7 @@ import Dog from "../../Assets/Projects/pictures/dog.jpeg";
 import halloween from "../../Assets/Projects/pictures/halloween.jpeg";
 import school from "../../Assets/Projects/pictures/school.png";
 import birthday from "../../Assets/Projects/pictures/birthday.png";
-import work from "../../Assets/Projects/pictures/work.png";
+import graduation from "../../Assets/Projects/pictures/graduation.png";
 import wedding from "../../Assets/Projects/pictures/wedding.png";
 
 
@@ -63,9 +63,9 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
           
-              imgPath={work}
+              imgPath={graduation}
               isBlog={false}
-              title="business events"
+              title="Graduation Parties"
               description=""
               
               // demoLink="" <--------Please include a demo link here
