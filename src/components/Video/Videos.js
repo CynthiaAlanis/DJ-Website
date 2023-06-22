@@ -28,7 +28,7 @@ function Videos() {
             title="Wedding"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
           </Col>
 
@@ -48,7 +48,7 @@ function Videos() {
             title="Graduation"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
 
         </Col>
@@ -70,7 +70,7 @@ function Videos() {
             title="Graduation"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
         </Col>
           <Col md={4} className="project-card">
@@ -79,7 +79,7 @@ function Videos() {
             title="Graduation"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
           </Col>
           <Col md={4} className="project-card">
@@ -88,7 +88,7 @@ function Videos() {
             title="Graduation"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
           </Col>
 
@@ -98,7 +98,7 @@ function Videos() {
             title="Wedding"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
           </Col>
           <Col md={4} className="project-card">
@@ -106,7 +106,7 @@ function Videos() {
             url="https://i.imgur.com/rGABoFs.mp4"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
           </Col>
           <Col md={4} className="project-card">
@@ -114,7 +114,7 @@ function Videos() {
             url="https://i.imgur.com/N8Dtnyd.mp4"
             width="100%"
             height="100%"
-            controls
+            controls={true}
         />
           </Col>
         </Row>
