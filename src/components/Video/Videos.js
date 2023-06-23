@@ -22,25 +22,28 @@ function Videos() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
-
+ 
           <ReactPlayer
-            url="https://i.imgur.com/PHHhJ61.mp4"
+            url={"https://i.imgur.com/PHHhJ61.mp4"}
             title="Wedding"
             width="100%"
             height="100%"
+            playIcon={<button>Play</button>}
             controls={true}
+            type="video/mp4"
         />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
           <ReactPlayer
-            url=""
-            title="Halloween"
+            url="https://i.imgur.com/LvrWIvX.mp4"
+            title="Graduation"
             width="100%"
             height="100%"
-            controls
+            controls={true}
+            type="video/mp4"
         />
-          </Col> */}
+          </Col>
 
           <Col md={4} className="project-card">
           <ReactPlayer
@@ -49,19 +52,21 @@ function Videos() {
             width="100%"
             height="100%"
             controls={true}
+            type="video/mp4"
         />
-
+       
         </Col>
-{/* 
+
           <Col md={4} className="project-card">
           <ReactPlayer
-            url=""
+            url="https://i.imgur.com/GsfY5qc.mp4"
             title="Graduation"
             width="100%"
             height="100%"
-            controls
+            controls={true}
+            type="video/mp4"
         />
-          </Col>  */}
+          </Col> 
           
 
           <Col md={4} className="project-card">
@@ -71,7 +76,9 @@ function Videos() {
             width="100%"
             height="100%"
             controls={true}
+            type="video/mp4"
         />
+         
         </Col>
           <Col md={4} className="project-card">
           <ReactPlayer
@@ -80,7 +87,9 @@ function Videos() {
             width="100%"
             height="100%"
             controls={true}
+            type="video/mp4"
         />
+         
           </Col>
           <Col md={4} className="project-card">
           <ReactPlayer
@@ -89,7 +98,9 @@ function Videos() {
             width="100%"
             height="100%"
             controls={true}
+            type="video/mp4"
         />
+         
           </Col>
 
           <Col md={4} className="project-card">
@@ -99,15 +110,20 @@ function Videos() {
             width="100%"
             height="100%"
             controls={true}
+            type="video/mp4"
         />
+         
           </Col>
           <Col md={4} className="project-card">
           <ReactPlayer
+          
             url="https://i.imgur.com/rGABoFs.mp4"
             width="100%"
             height="100%"
             controls={true}
+            type="video/mp4"
         />
+        
           </Col>
           <Col md={4} className="project-card">
           <ReactPlayer
@@ -115,7 +131,9 @@ function Videos() {
             width="100%"
             height="100%"
             controls={true}
+            type="video/mp4"
         />
+        
           </Col>
         </Row>
       </Container>
@@ -124,3 +142,4 @@ function Videos() {
 }
 
 export default Videos;
+
