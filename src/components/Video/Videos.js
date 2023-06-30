@@ -121,6 +121,26 @@ const VideoPlayer = () => {
               type="video/mp4" />
               </video>
             </Col>
+            <Col md={4} className="project-card">
+              <video        
+              ref={videoRef} 
+              controls
+              width="100%"
+              height="100%">
+              <source src="https://i.imgur.com/BnYtOWD.mp4"
+              type="video/mp4" />
+              </video>
+            </Col>
+            <Col md={4} className="project-card">
+              <video        
+              ref={videoRef} 
+              controls
+              width="100%"
+              height="100%">
+              <source src="https://i.imgur.com/KfHapbB.mp4"
+              type="video/mp4" />
+              </video>
+            </Col>
 
           </Row>
     </Container>
