@@ -19,7 +19,7 @@ function Home2() {
             Whether you're planning a birthday bash, a corporate extravaganza, or a special occasion that deserves a remarkable soundtrack, DJ Ray is here to transform your event into an unforgettable affair. So, let's collaborate, ignite the dance floor, and create memories that will be cherished forever.
             <br />
             <br />
-            Pricing is straightforward and affordable, with a rate of <b className="purple"> $150 per hour,</b> making quality entertainment accessible for a wide range of events and budgets.
+            Pricing is straightforward and affordable, with a rate of <b className="purple"> $200 per hour,</b> making quality entertainment accessible for a wide range of events and budgets.
               <br />
               <br />
               Get in touch today and let's embark on a musical journey that will have everyone talking for years to come. 
